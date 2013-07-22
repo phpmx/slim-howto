@@ -9,3 +9,10 @@ Tools
 =======
 
 SlimFramework v2.3.1
+
+Docs 
+=======
+
+http://slimframework.com
+
+http://docs.slimframework.com/
